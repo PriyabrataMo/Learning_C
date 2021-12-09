@@ -3,4 +3,4 @@ print('My first python code')
 x = 5
 print(x)
 
-print('Hey man!, what are you doing write now')
+print('Hey man!, what are you doing right now')
